@@ -24,7 +24,7 @@ My goal is to solve real-world problems by turning raw data into actionable stra
 ## 🛠️ Technical Skills  
 
 ### **Programming & Analysis**  
-✔️ Python | SQL | R | SAS | Shell Scripting  
+✔️ Python | SQL | R | SAS 
 
 ### **Databases & Data Engineering**  
 ✔️ MySQL | PostgreSQL | Oracle | Snowflake | MongoDB | Redshift | Synapse  
@@ -100,7 +100,7 @@ My goal is to solve real-world problems by turning raw data into actionable stra
 
 ## 🎓 Education  
 📌 **M.S. in Computer Science**  
-🎓 *University of Memphis, TN* | 📅 *Expected Dec 2024*  
+🎓 *University of Memphis, TN* | 📅 *Dec 2024*  
 
 📌 **B.Tech in Electronics & Communication Engineering**  
 🎓 *JNTUK, India* | 📅 *Sep 2020*  
