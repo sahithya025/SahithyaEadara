@@ -20,7 +20,7 @@ My goal is to solve real-world problems by turning raw data into actionable stra
 Programming & Analysis
 ✔️ Python | SQL | R | SAS | Shell Scripting
 
-Databases & Data Engineering
+Databases & Data Engineering 
 ✔️ MySQL | PostgreSQL | Oracle | Snowflake | MongoDB | Redshift | Synapse
 
 BI & Visualization Tools
