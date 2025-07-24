@@ -1,5 +1,5 @@
 
-# 💼 Sahithya Eadara  
+# 💼 Sahithya  
 🔹 **Data Analyst | Business Intelligence Developer | Cloud Data Enthusiast**  
 🔹 **SQL | Python | Power BI | Tableau | AWS | Azure | Data Storytelling**  
 🔹 Passionate about transforming complex data into impactful business insights through automation, analytics, and visualization  
