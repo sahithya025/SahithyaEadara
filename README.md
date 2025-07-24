@@ -4,9 +4,6 @@
 🔹 **SQL | Python | Power BI | Tableau | AWS | Azure | Data Storytelling**  
 🔹 Passionate about transforming complex data into impactful business insights through automation, analytics, and visualization  
 
-📍 Memphis, TN, USA | 📧 sahithya0230@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sahithya-edara) | 🚀 [GitHub](https://github.com/sahithya025)
-
 ---
 
 ## 📌 About Me  
@@ -115,16 +112,3 @@ My goal is to solve real-world problems by turning raw data into actionable stra
 ✔️ AWS Data Engineer Associate  
 
 ---
-
-## 📞 Contact Information  
-📍 Memphis, TN, USA  
-📧 sahithya0230@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sahithya-edara)  
-🚀 [GitHub](https://github.com/sahithya025)
-
----
-
-## 🎯 Let’s Connect!  
-💬 Open to collaborating on **data-driven projects** in **healthcare, BI, supply chain, or cloud analytics**. Let’s turn your data into smart decisions!
-
-🔥 *Made with 💙 by Sahithya Eadara*
